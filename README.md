@@ -21,5 +21,5 @@ GitHub, Docker, Jenkins, Terraform and Kubernetes
 
 Proposed architecture:
 
-
+https://drive.google.com/file/d/0B8l4VkUFTxPiLU1XejBVc3pIeUY0NkhQTmtMQ1I2dWlpdTZz/view?usp=sharing
 
