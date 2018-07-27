@@ -23,3 +23,5 @@ Proposed architecture:
 
 https://drive.google.com/file/d/0B8l4VkUFTxPiLU1XejBVc3pIeUY0NkhQTmtMQ1I2dWlpdTZz/view?usp=sharing
 
+https://photos.google.com/share/AF1QipPdXsYaZbTzwsM0hnUuSj4pM2EPV2gXvBi8RqdDzaaqFIN6WbB9tvn6--3lCkYOTA/photo/AF1QipPb2XCDWyOWRNFtybI4gyjLf38qlsberrw_B2VT?key=Qi1OdTI2SHVGRmpyWTQ3c3dHX2Fvc1JCaEZ6OXJ3
+
