@@ -25,6 +25,9 @@ Link to updated project PPT:
 https://docs.google.com/presentation/d/1ZgWNUfB3gbNdWpo3BbH02VOmguaHRF6ltfRn45Gk70c/edit#slide=id.g35f391192_00
 
 Links to different source files for project:
+
 Kubernetes Canary Deployment Setup: https://github.com/sbudaraj/k8canary
+
 Auto build to EC2 using Jenkins GitHub Webhook: https://github.com/sbudaraj/jenkinstest
+
 Initial Terraform files to get AWS Infra setup: https://github.com/sbudaraj/InsightProjectInfra
