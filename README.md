@@ -11,9 +11,9 @@ Many of us have great ideas that do not translate to a product because we do not
 
 Poposed Solution at high level:
 
-My propoasl will have a  way to take project definition (business idea) and translate it into  feature list of chunk sized development tasks. These will then be picked by a small group of developers (vetted* HS/college students) that will work off of a predefined SW architecture on presetup docker containers.  We will build a weekly deployment cadence based on SCM principles. GitHub feature code check ins will trigger Jenkins pipeline. Finalized main line will be deployed in a blue/green model using Kubernetes.
+My propoasl will have a  way to take project definition (business idea) and translate it into  feature list of chunk sized development tasks. These will then be picked by a small group of developers (vetted* HS/college students) that will work off of a predefined SW architecture on presetup docker container so they can be effective on day 1.  We will build a weekly deployment cadence based on SCM principles. GitHub feature code check ins will trigger Jenkins pipeline. Finalized main line will be deployed in a Canary or blue/green model using Kubernetes.
 
-First project definition/use case will be using an already built on Flask/Python/Postgres stack.
+First project definition/use case will be using an existing codebase for a freecycle app built on Nginx/Flask/Python/Postgres stack.
 
 Technologies that will be used:
 
